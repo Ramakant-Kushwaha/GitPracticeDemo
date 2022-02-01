@@ -1,5 +1,5 @@
 def add(x,y): #add implimentation
-    pass
+    return x+y:
 def subtract(x,y):  #sub implimentation
     pass
 def multiply(x,y):  #mul implimentation
